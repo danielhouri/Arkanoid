@@ -1,4 +1,4 @@
-# -Arkanoid
+# Arkanoid
 ![levels](https://user-images.githubusercontent.com/92430368/182669623-f9cafd7d-552d-4ce7-bbdd-8a4f9c0119f9.png)
 1. <a href="#About">About</a>
 2. <a href="#Dependencies">Dependencies</a>
@@ -21,7 +21,7 @@ The game implemented with Java language using Intellij IDEA Ultimate IDE, using 
 ## Option 1:
  Clone the repository:<br>
  
-    $ git clone https://github.com/dorhuri123/-Arkanoid
+    $ git clone https://github.com/danielhouri/Arkanoid.git
     
 Install [Apache Ant](https://ant.apache.org/bindownload.cgi)<br>
 Open CMD/Git Bash in the cloned directory and run this command to enter the game manu:
@@ -30,7 +30,7 @@ Open CMD/Git Bash in the cloned directory and run this command to enter the game
 ##   Option 2:
 Clone the repository:
 
-    $ git clone https://github.com/dorhuri123/-Arkanoid
+    $ git clone https://github.com/danielhouri/Arkanoid.git
 Open the project from an IDE such as Intellij, VS, etc.<br>
 Add the biu-oop.jar file as a global library to the Arkanoid project.<br>
 Make sure an updated jdk is set in the configuration for the manu to run on, and click play!
