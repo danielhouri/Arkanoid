@@ -21,16 +21,16 @@ The game implemented with Java language using Intellij IDEA Ultimate IDE, using 
 ## Option 1:
  Clone the repository:<br>
  
-    $ git clone https://github.com/danielhouri/Arkanoid.git
-    
+  $ git clone https://github.com/danielhouri/Arkanoid.git
+  
 Install [Apache Ant](https://ant.apache.org/bindownload.cgi)<br>
 Open CMD/Git Bash in the cloned directory and run this command to enter the game manu:
 
-    $ ant run
-##   Option 2:
+  $ ant run
+## Option 2:
 Clone the repository:
 
-    $ git clone https://github.com/danielhouri/Arkanoid.git
+  $ git clone https://github.com/danielhouri/Arkanoid.git
 Open the project from an IDE such as Intellij, VS, etc.<br>
 Add the biu-oop.jar file as a global library to the Arkanoid project.<br>
 Make sure an updated jdk is set in the configuration for the manu to run on, and click play!
@@ -39,6 +39,6 @@ Make sure an updated jdk is set in the configuration for the manu to run on, and
 - Press 'Up' or 'Down' arrows to navigate through the manu.
 - Press 'Enter' to select an option\ to start a game.
 - Use the 'Left' and 'Right' arrows to control the paddle.
-- Press 'p' to pause.
-- Press 'Space' to re-enter the game.
+- Press 'P' to pause.
+- Press 'Space' to restart the game.
 
